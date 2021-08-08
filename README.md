@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jose-data
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Data Science with Tech Talent Academy
+- 🌱 I’m currently looking for experiences in Data Science or Data Analytics roles
 - 💞️ I’m looking to collaborate on ... Big data, Machine Learning and Analytics
 - 📫 How to reach me ... j.pathfinder27@gmail.com
 
